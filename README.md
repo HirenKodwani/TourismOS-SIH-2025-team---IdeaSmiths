@@ -271,6 +271,8 @@ Himanshu Yadav
 Taha Rangwala
 Yashasv Tiwari
 Hitanshi Jain
+
+AITR
 IT Department, 3rd Year  
 Smart India Hackathon 2025
 
